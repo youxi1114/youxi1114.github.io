@@ -1,6 +1,6 @@
 # Site settings
 title: Youxi's Blog
-SEOTitle: Allen的部落格 | Allen's Blog
+SEOTitle: YCC網站 | YCC's Web
 header-img: img/home-bg.webp
 email: contact@allenspace.de
 description: "這裡是Allen的部落格，分享技術和生活"
@@ -67,7 +67,7 @@ kramdown:
 # Giscus comments (RECOMMENDED)
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out the information below.
 giscus:
-  repo: allen5218/myblog # <your-github-user-name>/<your-github-repo-name>
+  repo: youxi1114/youxi1114.github.io # <your-github-user-name>/<your-github-repo-name>
   repo_id: R_kgDOPaqk9Q # leave empty or specify your repo_id (see https://giscus.app/)
   category: Comments # name of the category under which discussions will be created
   category_id: DIC_kwDOPaqk9c4Cuwao # leave empty or specify your category_id (see https://giscus.app/)
@@ -90,7 +90,7 @@ ga_domain: blog.allenspace.de
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "分享技術和生活<br>聯絡信箱: <a href='mailto:contact@allenspace.de'>contact@allenspace.de</a>"
-sidebar-avatar: https://img.allenspace.de/20250820060315_ada51ln5j8.8ado5b4i6s.webp # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: https://avatars.githubusercontent.com/u/225213239?u=3fdeb1513f446900051c52a200d2078f3eac6c22 # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
